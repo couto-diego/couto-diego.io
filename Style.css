@@ -15,7 +15,7 @@
 /*Event form */
 #event-description{
    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), 
-   url("../img/Atelie1.jpg");
+   url("Atelie1.jpg");
    background-position: center;
    background-size: cover;
    height: 85vh;
@@ -143,22 +143,22 @@ h2{
     margin-bottom: 1em;
 }
 #benefit-1{
-    background-image: url("../img/academia.jpg");
+    background-image: url("academia.jpg");
 }
 #benefit-2{
-    background-image: url("../img/biquini.jpeg");
+    background-image: url("biquini.jpeg");
 }
 #benefit-3{
-    background-image: url("../img/verao.jpg");
+    background-image: url("verao.jpg");
 }
 #benefit-4{
-    background-image: url("../img/outono.jpg");
+    background-image: url("outono.jpg");
 }
 /*Event location*/
 #location {
     height: 400px;
     background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), 
-    url("../img/Atelie4.jpg");
+    url("Atelie4.jpg");
     background-position: center;
     background-size: cover;
     display: flex;
@@ -235,7 +235,7 @@ h2{
 #cta{
     height: 300px;
     background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), 
-    url("../img/atelie6.jpg");
+    url("atelie6.jpg");
     background-position: center;
     background-size: cover;
     display: flex;
